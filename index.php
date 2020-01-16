@@ -245,7 +245,7 @@
                 <!-- End Icon Blocks -->
               </div>
               <div class="text-center">
-                <a class="btn btn-xl btn-primary g-font-size-default" href="#!">สั่งซื้อ</a>
+                <a class="btn btn-xl btn-primary g-font-size-default" href="#purchase-link">สั่งซื้อ</a>
               </div>
             </div>
           </div>
@@ -275,45 +275,30 @@
       <!-- End Promo Block -->
 
       <!-- Section Intro -->
-      <section class="container g-pt-60 g-pb-40">
+      <section id="purchase-link" class="container g-pt-60 g-pb-40">
         <div class="row">
           <div class="col-md-5 g-bg-white">
             <div class="row no-gutters">
               <div class="col-md-12">
                 <!-- Icon Blocks -->
-                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-                  <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                    <i class="fa fa-mobile"></i>
-                  </span>
-                  <h3 class="h5 g-color-black g-mb-10">โทรศัพท์</h3>
-                  <a href="tel:0825982085"><p class="g-color-gray-dark-v4">082-598-2085</p></a>
-                  <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5 g-mb-30">
+                  <a href="tel:0825982085"><img class="img-fluid" src="assets/img/hsc_tel_bt.png"></a>
                 </div>
                 <!-- End Icon Blocks -->
               </div>
     
               <div class="col-md-12">
                 <!-- Icon Blocks -->
-                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-                  <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-5">
-                    <img style="width: 40px; opacity: 0.5;" src="assets/img/Line_A.png">
-                  </span>
-                  <h3 class="h5 g-color-black g-mb-10">LINE</h3>
-                  <a href="http://line.me/ti/p/@hscthai" target="_blank"><p class="g-color-gray-dark-v4">LINE @</p></a>
-                  <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5 g-mb-30">
+                  <a href="http://line.me/ti/p/@hscthai" target="_blank"><img class="img-fluid" src="assets/img/hsc_ln_bt.png"></a>
                 </div>
                 <!-- End Icon Blocks -->
               </div>
     
               <div class="col-md-12">
                 <!-- Icon Blocks -->
-                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-                  <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                    <i class="fa fa-facebook-official"></i>
-                  </span>
-                  <h3 class="h5 g-color-black g-mb-10">FACEBOOK</h3>
-                  <a href="https://www.facebook.com/%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%9C%E0%B8%A1-By-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%8D-%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%9C%E0%B8%A1%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87-%E0%B8%9A%E0%B8%B2%E0%B8%87-%E0%B8%A8%E0%B8%B5%E0%B8%A3%E0%B8%A9%E0%B8%B0%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-2387319288018973/" target="_blank"><p class="g-color-gray-dark-v4">วิตามินกระตุ้นรากผม <br>-By แพทย์ผู้เชี่ยวชาญ-คลีนิกรักษาผมร่วง บาง ศีรษะล้าน</p></a>
-                  <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+                <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5 g-mb-30">
+                  <a href="https://www.facebook.com/%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%9C%E0%B8%A1-By-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%8D-%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%9C%E0%B8%A1%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87-%E0%B8%9A%E0%B8%B2%E0%B8%87-%E0%B8%A8%E0%B8%B5%E0%B8%A3%E0%B8%A9%E0%B8%B0%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-2387319288018973/" target="_blank"><img class="img-fluid" src="assets/img/hsc_fb_bt.png"></a>
                 </div>
                 <!-- End Icon Blocks -->
               </div>
@@ -321,37 +306,43 @@
           </div>
 
           <div class="col-md-7 g-px-30 u-shadow-v21">
-            <form>
+            <form name="purchase-form" id="purchase-form" method="POST">
               <div class="row">
-                <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_1" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="text" placeholder="ชื่อผู้รับ">
+                <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                    <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
+                    <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
+                      <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
+                      <option value="Nuuna : 1 กล่อง">1 กล่อง : 490.-</option>
+                      <option value="Nuuna : 3 กล่อง">3 กล่อง : 990.-</option>
+                      <option value="Nuuna : 4 แถม 3b 1">4 กล่อง (แถมฟรี! ครีมกันแดด 6b) : 1,290.-</option>
+                      <option value="Nuuna : 6 แถม 1 กล่อง">6 กล่อง (แถมฟรี! 1 กล่อง) : 1,990.-</option>
+                    </select>
+                </div>
+                <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                    <label class="g-color-gray-dark-v2 label-set-center-middle g-width-70">ชื่อผู้รับ :</label>
+                    <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="fullname" id="fullname" placeholder="ชื่อ-นามสกุล">
                 </div>
 
-                <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_2" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="tel" placeholder="หมายเลขโทรศัพท์ (ใส่เฉพาะตัวเลขเท่านั้น)">
+                <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                    <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">โทร :</label>
+                    <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" name="mobile" id="mobile">
                 </div>
 
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <select id="inputGroup1_3" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10" style="height: 3.3rem;">
-                    <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                    <option value="Nuuna : 1 กล่อง">1 กล่อง : 490.-</option>
-                    <option value="Nuuna : 3 กล่อง">3 กล่อง : 990.-</option>
-                    <option value="Nuuna : 4 แถม 3b 1">4 กล่อง (แถมฟรี! ครีมกันแดด 6b) : 1,290.-</option>
-                    <option value="Nuuna : 6 แถม 1 กล่อง">6 กล่อง (แถมฟรี! 1 กล่อง) : 1,990.-</option>
-                  </select>
+                <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                    <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">ที่อยู่ :</label>
+                    <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="address" id="address" placeholder="บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
                 </div>
-
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_4" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="6" placeholder="ที่อยู่ : บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
-                </div>
-
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_5" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="4" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
+                <div class="col-md-12 form-group g-mb-40 contact-display-inline-flex">
+                    <label class="g-color-gray-dark-v2 label-set-center-middle g-width-80">หมายเหตุ :</label>
+                    <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="description" id="description" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
                 </div>
               </div>
+              <input type="hidden" name="redirect" id="redirect" value="https://chepose.wesales.online/thankyou.php"/>
+              <input type="hidden" name="lineid" id="lineid" value=""/>
+              <input type="hidden" name="sms" id="sms" value="1"/>
 
-              <div class="text-center">
-                <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-3 g-px-40 g-py-15 mb-0" type="submit" role="button">ส่งข้อมูล</button>
+              <div class="col-md-12 text-center">
+                <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-3 g-px-40 g-py-15 mb-0" type="submit" role="button" disabled="" id="bt-purchase-form-submit">ส่งข้อมูลการสั่งซื้อ</button>
               </div>
             </form>
           </div>
@@ -360,29 +351,7 @@
       </section>
       <!-- End Section -->
 
-      <footer>
-        <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
-          <div class="container">
-            <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-20">
-              <div class="row">
-                <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
-                  <p class="w-100 mb-0">
-                    Copyright 2019 NuunaShop.com All Rights Reserved
-                  </p>
-                </div>
-
-                <div class="col-md-6">
-                  <ul class="list-inline float-md-right mb-0">
-                    <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="https://www.facebook.com/QIncaOilThai/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <div id="sec-footer"></div>
 
       <a class="js-go-to u-go-to-v1" href="#!"
          data-type="fixed"
@@ -462,4 +431,8 @@
       });
     </script>
   </body>
+
+  <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
+  <script src="https://assets.wesales.online/js/purchase-process.js"></script>
+
 </html>
